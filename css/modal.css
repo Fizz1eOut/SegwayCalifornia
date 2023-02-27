@@ -84,3 +84,14 @@
 	transform: translateY(0);
 	transition: var(--transition-time);
 }
+
+@media (max-width: 767.98px) {
+	.modal__container.modal-open {
+		max-width: 100%;
+		padding: 20px;
+	}
+	.order-form.order {
+		padding: 0px;
+	}
+	
+}
