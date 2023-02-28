@@ -1,5 +1,5 @@
 // tabs 
-const tabsBtn   = document.querySelectorAll(".products-tabs__btn");
+const tabsBtn = document.querySelectorAll(".products-tabs__btn");
 const tabsItem = document.querySelectorAll(".products-tabs__item");
 
 tabsBtn.forEach(onTabClick);

@@ -369,7 +369,7 @@
 	object-fit: cover;
 }
 .cart-product__text {
-	min-width: 170px;
+	width: 170px;
 }
 .cart-product__title {
 	max-width: 300px;
@@ -804,7 +804,10 @@
 	}
 }
 
-
+/* features */
+.features__img img {
+	width: 100%;
+}
 /* btn anim */
 .btn-top {
     display: none;
@@ -831,7 +834,7 @@
 
   /* animation */
   .box {
-    transform: translateX(200%);
+    transform: translateX(-100%);
     transition: transform 0.5s ease-in-out;
   }
   
