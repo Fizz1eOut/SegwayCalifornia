@@ -1,4 +1,4 @@
-// tabs  2
+// tabs 2
 const infoTabsBtn = document.querySelectorAll(".info-block__tabs-btn");
 const infoTabsItem = document.querySelectorAll(".info-block__tabs-item");
 
