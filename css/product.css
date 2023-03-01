@@ -147,8 +147,10 @@ body {
 .image-switch__img img {
     display: block;
     max-width: 100%;
+    
     object-fit: cover;
 }
+
 .image-switch__item:first-child .image-switch__img {
     opacity: 1;
     z-index: -1;
