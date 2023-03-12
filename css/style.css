@@ -780,6 +780,9 @@
 }
 
 @media (max-width: 767.98px) {
+	.packing-list {
+		margin-top: 70px;
+	}
 	.packing-list__body {
 		flex-direction: column;
 	}
@@ -863,6 +866,9 @@
 	color: #999;
 }
 @media (max-width: 767.98px) {
+	.features {
+		margin-top: 70px;
+	}
 	.features__title {
 
 		font-size: 35px;
